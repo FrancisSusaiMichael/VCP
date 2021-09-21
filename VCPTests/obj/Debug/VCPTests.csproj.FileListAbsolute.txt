@@ -22,3 +22,9 @@ E:\DOJO\Local\VCP\VCPTests\obj\Debug\VCPTests.csproj.CoreCompileInputs.cache
 E:\DOJO\Local\VCP\VCPTests\obj\Debug\VCPTests.csproj.CopyComplete
 E:\DOJO\Local\VCP\VCPTests\obj\Debug\VCPTests.dll
 E:\DOJO\Local\VCP\VCPTests\obj\Debug\VCPTests.pdb
+E:\DOJO\Local\VCP\VCPTests\bin\Debug\VCPTests.dll.config
+E:\DOJO\Local\VCP\VCPTests\bin\Debug\WebGrease.dll
+E:\DOJO\Local\VCP\VCPTests\bin\Debug\Antlr3.Runtime.dll
+E:\DOJO\Local\VCP\VCPTests\bin\Debug\Newtonsoft.Json.dll
+E:\DOJO\Local\VCP\VCPTests\bin\Debug\Antlr3.Runtime.pdb
+E:\DOJO\Local\VCP\VCPTests\bin\Debug\Newtonsoft.Json.xml

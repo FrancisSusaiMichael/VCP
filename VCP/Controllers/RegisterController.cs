@@ -13,5 +13,14 @@ namespace VCP.Controllers
         {
             return View();
         }
+
+        /// <summary>
+        /// called when register button clicked
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult Register()
+        {
+            return View();
+        }
     }
 }
